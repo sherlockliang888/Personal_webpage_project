@@ -1,0 +1,10 @@
+About me
+
+"Hi there! My name is Fengshou and you may call me Sherlock. I am a 
+recent graduate from University of Toronto, studying Statistics and 
+Mathematics. My goal is to become a data analyst yet given my limited
+industrial experience, it is difficult for me to find a relevant 
+internship or job. During such stressful period, as a result, I have 
+decided to use the time I have to enrich myself and explore the fields
+which interest me, including web development and programming. Now here
+I am, making my own webpage and showing what I have accomplished."
